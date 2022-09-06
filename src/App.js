@@ -5,11 +5,11 @@ import Blog from './components/Blog';
 import Footer from './components/Footer'
 import Works from './components/Works';
 import NoMatch from './components/NoMatch';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Header />      
       <Routes>
         <Route path='/' element={<Home />} />
@@ -18,7 +18,7 @@ const App = () => {
         <Route path='*' element={<NoMatch />} />
       </Routes> 
       <Footer />
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 
