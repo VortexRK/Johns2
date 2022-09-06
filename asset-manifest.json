@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Jhons2/static/css/main.9b59a4c3.css",
-    "main.js": "/Jhons2/static/js/main.92498a1e.js",
-    "static/js/787.b5947f22.chunk.js": "/Jhons2/static/js/787.b5947f22.chunk.js",
-    "static/media/car.jpg": "/Jhons2/static/media/car.576c66bcb2eb45585e51.jpg",
-    "static/media/design1.jpg": "/Jhons2/static/media/design1.9ebddddd178a493521e0.jpg",
-    "static/media/design2.jpg": "/Jhons2/static/media/design2.f0026078b92e790f8476.jpg",
-    "static/media/portrait.jpg": "/Jhons2/static/media/portrait.6839d6e4515c2c1d57ca.jpg",
-    "static/media/avatar.jpg": "/Jhons2/static/media/avatar.bb93ee9d6575e3135cb4.jpg",
-    "static/media/dashboard.jpg": "/Jhons2/static/media/dashboard.5c7d354276177a136d0b.jpg",
-    "static/media/malayalam.jpg": "/Jhons2/static/media/malayalam.b8e6749438a7e7b85be8.jpg",
-    "static/media/components.jpg": "/Jhons2/static/media/components.51628a221cbc45701e95.jpg",
-    "static/media/insta.svg": "/Jhons2/static/media/insta.fa501a8318702d8f77554e350638f51d.svg",
-    "static/media/Group.svg": "/Jhons2/static/media/Group.6fa2dda63e1d670cbc69edddd19b423f.svg",
-    "index.html": "/Jhons2/index.html",
-    "static/media/Linkedin.svg": "/Jhons2/static/media/Linkedin.a4340becda273f4d05985c6c30c65370.svg",
-    "static/media/fb.svg": "/Jhons2/static/media/fb.44919ae56f5592e5c7901e9adaf8ea86.svg",
-    "main.9b59a4c3.css.map": "/Jhons2/static/css/main.9b59a4c3.css.map",
-    "main.92498a1e.js.map": "/Jhons2/static/js/main.92498a1e.js.map",
-    "787.b5947f22.chunk.js.map": "/Jhons2/static/js/787.b5947f22.chunk.js.map"
+    "main.css": "/Johns2/static/css/main.9b59a4c3.css",
+    "main.js": "/Johns2/static/js/main.3ebe3d7d.js",
+    "static/js/787.b5947f22.chunk.js": "/Johns2/static/js/787.b5947f22.chunk.js",
+    "static/media/car.jpg": "/Johns2/static/media/car.576c66bcb2eb45585e51.jpg",
+    "static/media/design1.jpg": "/Johns2/static/media/design1.9ebddddd178a493521e0.jpg",
+    "static/media/design2.jpg": "/Johns2/static/media/design2.f0026078b92e790f8476.jpg",
+    "static/media/portrait.jpg": "/Johns2/static/media/portrait.6839d6e4515c2c1d57ca.jpg",
+    "static/media/avatar.jpg": "/Johns2/static/media/avatar.bb93ee9d6575e3135cb4.jpg",
+    "static/media/dashboard.jpg": "/Johns2/static/media/dashboard.5c7d354276177a136d0b.jpg",
+    "static/media/malayalam.jpg": "/Johns2/static/media/malayalam.b8e6749438a7e7b85be8.jpg",
+    "static/media/components.jpg": "/Johns2/static/media/components.51628a221cbc45701e95.jpg",
+    "static/media/insta.svg": "/Johns2/static/media/insta.fa501a8318702d8f77554e350638f51d.svg",
+    "static/media/Group.svg": "/Johns2/static/media/Group.6fa2dda63e1d670cbc69edddd19b423f.svg",
+    "index.html": "/Johns2/index.html",
+    "static/media/Linkedin.svg": "/Johns2/static/media/Linkedin.a4340becda273f4d05985c6c30c65370.svg",
+    "static/media/fb.svg": "/Johns2/static/media/fb.44919ae56f5592e5c7901e9adaf8ea86.svg",
+    "main.9b59a4c3.css.map": "/Johns2/static/css/main.9b59a4c3.css.map",
+    "main.3ebe3d7d.js.map": "/Johns2/static/js/main.3ebe3d7d.js.map",
+    "787.b5947f22.chunk.js.map": "/Johns2/static/js/787.b5947f22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b59a4c3.css",
-    "static/js/main.92498a1e.js"
+    "static/js/main.3ebe3d7d.js"
   ]
 }
